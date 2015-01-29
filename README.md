@@ -9,6 +9,7 @@ This was created for a graduate-level computer science graphics course, and so t
 You need to have a WebGL enabled browser. Additionally, you need to make sure that your browser can read local files. From [this site](http://www.chrome-allow-file-access-from-file.com/):
 
 **On Windows Operating System**
+
 * Get the url of your Chrome Installation  path to your chrome installation e.g C:\Users\-your-user-name\AppData\Local\Google\Chrome\Application>
 * Launch the Google Chrome browser from the command line window with the additional argument ‘–allow-file-access-from-files’. E.g ‘path to your chrome installation\chrome.exe --allow-file-access-from-files’
 * Temporary method you can use each time you are testing
@@ -17,6 +18,7 @@ You need to have a WebGL enabled browser. Additionally, you need to make sure th
 * Alternatively, you can simply create a new launcher with the above and use it to start chrome.
 
 **On Linux Operating System (specifically UBUNTU)**
+
 * Go to the menu entry/ launcher for Chrome (.desktop file)
 * Open the launcher properties dialog.
 * It should look something like this: ‘/usr/bin/google-chrome %U’
