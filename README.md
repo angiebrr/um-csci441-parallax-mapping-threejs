@@ -6,7 +6,7 @@ This was created for a graduate-level computer science graphics course, and so t
 
 ### How do I get set up? ###
 
-You need to have a WebGL enabled browser. Additionally, you need to make sure that your browser can read local files. From [this site](http://www.chrome-allow-file-access-from-file.com/):
+You need to have a WebGL enabled browser. Additionally, you need to make sure that your browser can read local files. Here are some instructions for Chrome from [this site](http://www.chrome-allow-file-access-from-file.com/):
 
 **On Windows Operating System**
 
