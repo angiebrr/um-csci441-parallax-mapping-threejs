@@ -4,6 +4,8 @@ Using TerrainGenerator to procedurally generate random terrain, this scene emula
 
 This was created for a graduate-level computer science graphics course, and so there is a paper in the source (Gross_Angela_Project_2_Paper.pdf) that describes the project process, methods, and underlying theory behind the project. Also, it has a great deal of photos of the end result of the project.
 
+![normal_parallax_mapping.PNG](https://bitbucket.org/repo/jX5bo4/images/2816976925-normal_parallax_mapping.PNG)
+
 ### How do I get set up? ###
 
 You need to have a WebGL enabled browser. Additionally, you need to make sure that your browser can read local files. Here are some instructions for Chrome from [this site](http://www.chrome-allow-file-access-from-file.com/):
