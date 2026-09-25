@@ -15,7 +15,7 @@
 
 A three.js scene that adds depth to flat textures on a procedurally generated terrain, using normal mapping and parallax mapping in a custom vertex and fragment shader.
 
-Project 2 for CSCI 441, a graduate computer graphics course at the University of Montana, fall 2014. Normal and parallax mapping are cheap stand-ins for displacement mapping: the geometry stays flat, but the lighting and texture coordinates make it look like it has depth.
+A project for CSCI 441, a graduate computer graphics course at the University of Montana, fall 2014. Normal and parallax mapping are cheap stand-ins for displacement mapping: the geometry stays flat, but the lighting and texture coordinates make it look like it has depth.
 
 **Tech:** JavaScript, three.js, GLSL, dat.GUI
 
